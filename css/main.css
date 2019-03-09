@@ -1,0 +1,331 @@
+*{
+	padding: 0;
+	margin:0 auto;
+}
+p{
+	float: left;
+}
+.first{
+	width: 1496px;
+	height: 53px;
+	background-color: #4f8575;
+}
+.logo1{
+	width: 47px;
+	height: 46px;
+	margin-left: 0;
+	margin-top: 0;
+	position: absolute;
+	background-color: #4f8575;
+}
+.box1{
+	width: 150px;
+	height: 53px;
+	margin-left: 338px;
+	margin-top: 0;
+	position: absolute;
+	background-color: #6fbcac;
+}
+.box1>a{
+	font-size: 28px;
+	font-family: 楷体;
+	color: #f7fbf9;
+	position: absolute;
+	margin-left: 46px;
+	margin-top: 11px;
+}
+.box2{
+	width: 150px;
+	height: 53px;
+	margin-left: 700px;
+	margin-top: 0;
+	position: absolute;
+	background-color: #6fbcac;
+}
+.box2>a{
+	font-size: 28px;
+	font-family: 楷体;
+	color: #f7fbf9;
+	position: absolute;
+	margin-top: 11px;
+	margin-left: 46px;
+}
+.box3{
+	width: 150px;
+	height: 53px;
+	margin-left: 1075px;
+	margin-top: 0;
+	position: absolute;
+	background-color: #6fbcac;	
+}
+.box3>a{
+	font-size: 28px;
+	font-family: 楷体;
+	color: #f7fbf9;
+	position: absolute;
+	margin-top: 11px;
+	margin-left: 35px;	
+}
+.bigbox1{
+	width: 1496px;
+	height: 748px;
+	background-color: white;
+}
+.banner1{
+	width: 1496px;
+	height: 748px;
+	background-color: white;
+	position: absolute;
+}
+.theme{
+	font-size: 100px;
+	font-family: 楷体;
+	color: #618673;
+	position: absolute;
+	margin-left: 820px;
+	margin-top: 270px;
+}
+.begin{
+	width: 1496px;
+	height: 286px;
+	background-color: #4f8575;	
+}
+.headline{
+	width: 1496px;
+	height: 286px;
+	position: absolute;
+}
+.topic1{
+	font-size: 125px;
+	font-family: Adobe 楷体 Std;
+	color: #f8fbfa;
+	position: absolute;
+	margin-left: 496px;
+	margin-top: -10px;
+}
+.topic2{
+	font-size: 131px;
+	font-family: 隶书;
+	color: #f8fbfa;
+	position: absolute;
+	margin-left: 621px;
+	margin-top: 45px;
+}
+.topic3{
+	font-size: 125px;
+	font-family: Adobe 楷体 Std;
+	color: #f8fbfa;
+	position: absolute;
+	margin-left: 750px;
+	margin-top: -10px;	
+}
+.topic4{
+	font-size: 131px;
+	font-family: 隶书;
+	color: #f8fbfa;
+	position: absolute;
+	margin-left: 869px;
+	margin-top: 45px;	
+}
+.theme0{
+	font-size: 30px;
+	font-family: Yu Gothic UI;
+	color: #f8fbfa;
+	position: absolute;
+	margin-left: 620px;
+	margin-top: 195px;
+}
+.bigbox2{
+	width: 1496px;
+	height: 3793px;
+	background-color: white;
+}
+.banner2{
+	width: 1496px;
+	height: 3796px;
+	background-color: white;
+	position: absolute;
+	background: url(../image/banner2.jpg);
+}
+.text90{
+	font-size: 40px;
+	font-family: Adobe نسخ;
+	color: #042720;
+	position: absolute;
+	margin-left: 530px;
+	margin-top: 213px;
+}
+.textbushi{
+	font-size: 22px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-top: 160px;
+	margin-left: 750px;
+	line-height: 43px;
+}
+.textqingchun{
+	font-size: 22px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 340px;
+	line-height: 43px;
+
+}
+.texthuge{
+	font-size: 60px;
+	font-family: 华文楷体;
+	font-weight: bold;
+	color: #042720;
+	position: absolute;
+	margin-left: 736px;
+	margin-top: 340px;
+}
+.textqidai{
+	font-size: 35px;
+	font-family: 华文楷体;
+	font-weight: bold;
+	color: #042720;
+	position: absolute;
+	margin-left: 750px;
+	margin-top: 410px;
+}
+.question{
+	width: 52px;
+	height: 84px;
+	margin-left: 870px;
+	margin-top: 330px;
+}
+.textshengkuang{
+	font-size: 80px;
+	font-family: 华文行楷;
+	font-weight: bold;
+	color: #042720;
+	position: absolute;
+	margin-left: 1010px;
+	margin-top: 540px;
+}
+.texthongdou{
+	font-size: 26px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 1020px;
+	margin-top: 640px;
+	line-height: 43px;
+}
+.texthanleng{
+	font-size: 26px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 1000px;
+	line-height: 45px;
+}
+.textfinally{
+	font-size: 45px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 1000px;
+	margin-top: 1700px;
+	line-height: 45px;
+}
+.textshuirun{
+	font-size: 48px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 1780px;
+	line-height: 45px;
+}
+.textyiliao{
+	font-size: 40px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 250px;
+	margin-top: 2000px;
+	line-height: 45px;
+	font-weight: bold;
+
+}
+.textbuwang{
+	font-size: 39px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 292px;
+	margin-top: 2060px;
+	line-height: 45px;
+}
+.text12{
+	font-family: Yu Gothic UI;
+	font-size: 43px;
+	color: #042720;
+	position: absolute;
+	margin-left: 360px;
+	margin-top: 2110px;
+	line-height: 45px;
+}
+.textchunxia{
+	font-size: 25px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 2430px;
+	line-height: 45px;
+}
+.textshoupeng{
+	font-size: 25px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 2476px;
+	line-height: 47px;
+}
+.textbuliu{
+	font-size: 24px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 383px;
+	margin-top: 2580px;
+	line-height: 45px;
+}
+.copyrightbanner{
+	width: 1496px;
+	height: 240px;
+	background-color: white;
+	position: absolute;
+}
+.logo2{
+	width: 47px;
+	height: 46px;
+	position: absolute;
+	margin-top: 49px;
+	margin-left: 654px;
+}
+.textkonggu{
+	font-size: 30px;
+	font-family: Yu Gothic UI;
+	color: #042720;
+	position: absolute;
+	margin-left: 730px;
+	margin-top: 53px;
+}
+.copyright{
+	font-size: 25px;
+	font-family: 宋体;
+	color: #042720;
+	position: absolute;
+	margin-left: 520px;
+	margin-top: 110px;
+	line-height: 40px;
+}
